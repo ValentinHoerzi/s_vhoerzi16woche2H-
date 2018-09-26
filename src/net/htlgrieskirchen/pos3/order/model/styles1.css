@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26.09.2018, 22:45:53
+    Author     : Valentin
+*/
+
+.anchorPane{
+    -fx-background-color: rgb(196, 255, 254);
+    -fx-background-size: 1px;
+    -fx-border-style: solid;
+}
+
+.labelBorder{
+    -fx-background-size: 1px;
+    -fx-border-style: solid;
+}
+
+.labelHeadline{
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+}
+
+.buttons{
+    -fx-cursor: hand;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-background-color: #FF7F00;
+}
+
+.menuBar,.labelBorder,.buttons{
+    -fx-background-color: rgb(99, 255, 192);
+}
+
+
+.datePicker{
+    -fx-control-inner-background:rgb(183, 69, 69);
+    -fx-cursor:hand;
+}
+
+.tableColumn{
+    -fx-background-color: rgb(183, 69, 69);
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.tableColumn-{
+    -fx-background-color: rgb(183, 146, 69);
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.textField{
+    -fx-background-color: rgb(183, 69, 69);
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.textField-{
+    -fx-background-color: rgb(183, 146, 69);
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}

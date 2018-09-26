@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26.09.2018, 18:57:59
+    Author     : Valentin
+*/
+.anchorPane{
+    -fx-background-color: linear-gradient(to left bottom,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#9400D3);
+}
+
+.labelBorder{
+    -fx-background-size: 1px;
+    -fx-border-style: solid;
+    -fx-border-radius: 10px;
+}
+
+.labelHeadline{
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+}
+
+.menuBar{
+    -fx-background-color: linear-gradient(to right bottom,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#9400D3);
+}
+
+.buttons{
+    -fx-cursor: hand;
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+}
+
+.datePicker{
+    -fx-control-inner-background:rgb(255, 0 , 0);
+    -fx-cursor:hand;
+}
+
+.tableColumn1, .tableColumn2, .tableColumn3, .tableColumn4, .tableColumn5, .tableColumn6, .tableColumn7{
+    -fx-border-style: solid;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+.tableColumn1{
+    -fx-background-color: rgb(255, 0 , 0);
+}
+
+.tableColumn2{
+    -fx-background-color: rgb(255, 127, 0);
+}
+
+.tableColumn3{
+    -fx-background-color: rgb(255, 255, 0);
+}
+.tableColumn4{
+    -fx-background-color: rgb(0, 255, 0);
+}
+.tableColumn5{
+    -fx-background-color: rgb(0, 0, 255);
+}
+.tableColumn6{
+    -fx-background-color: rgb(75, 0, 130);
+}
+.tableColumn7{
+    -fx-background-color: rgb(148, 0, 211);
+}

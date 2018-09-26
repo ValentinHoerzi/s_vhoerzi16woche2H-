@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_144" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="net.htlgrieskirchen.pos3.order.model.Order" id="Order0">
+    <void property="city">
+     <string>d</string>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1537048800000</long>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>b</string>
+    </void>
+    <void property="id">
+     <long>0</long>
+    </void>
+    <void property="lastName">
+     <string>a</string>
+    </void>
+    <void property="positions">
+     <void method="add">
+      <object class="net.htlgrieskirchen.pos3.order.model.Position">
+       <void property="amount">
+        <int>47</int>
+       </void>
+       <void property="description">
+        <string>Something</string>
+       </void>
+       <void property="pricePerUnit">
+        <double>11.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="net.htlgrieskirchen.pos3.order.model.Position">
+       <void property="amount">
+        <int>11</int>
+       </void>
+       <void property="description">
+        <string>Someotherthing34</string>
+       </void>
+       <void property="pricePerUnit">
+        <double>-4.0</double>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="net.htlgrieskirchen.pos3.order.model.Position">
+       <void property="amount">
+        <int>2</int>
+       </void>
+       <void property="description">
+        <string>asdf</string>
+       </void>
+       <void property="pricePerUnit">
+        <double>4.0</double>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="street">
+     <string>c</string>
+    </void>
+    <void property="zipCode">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.htlgrieskirchen.pos3.order.model.Order">
+    <void property="city">
+     <string></string>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1536530400000</long>
+     </object>
+    </void>
+    <void property="firstName">
+     <string></string>
+    </void>
+    <void property="id">
+     <long>1</long>
+    </void>
+    <void property="lastName">
+     <string></string>
+    </void>
+    <void property="street">
+     <string></string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.htlgrieskirchen.pos3.order.model.Order">
+    <void property="city">
+     <string>tStadt</string>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1536530400000</long>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>tVN</string>
+    </void>
+    <void property="id">
+     <long>2</long>
+    </void>
+    <void property="lastName">
+     <string>tNN</string>
+    </void>
+    <void property="street">
+     <string>tStr</string>
+    </void>
+    <void property="zipCode">
+     <int>1234</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.htlgrieskirchen.pos3.order.model.Order" id="Order1">
+    <void property="city">
+     <string>t4</string>
+    </void>
+    <void property="date">
+     <object class="java.util.Date">
+      <long>1536530400000</long>
+     </object>
+    </void>
+    <void property="firstName">
+     <string>t2</string>
+    </void>
+    <void property="id">
+     <long>3</long>
+    </void>
+    <void property="lastName">
+     <string>t1</string>
+    </void>
+    <void property="positions">
+     <void method="add">
+      <object class="net.htlgrieskirchen.pos3.order.model.Position">
+       <void property="amount">
+        <int>4</int>
+       </void>
+       <void property="description">
+        <string>abc</string>
+       </void>
+       <void property="pricePerUnit">
+        <double>43.0</double>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="street">
+     <string>t3</string>
+    </void>
+    <void property="zipCode">
+     <int>4321</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
